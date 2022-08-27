@@ -1,0 +1,1 @@
+simple function which takes a string that's separated by spaces & returns the highest and lowest number.
